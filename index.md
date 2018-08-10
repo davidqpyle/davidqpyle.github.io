@@ -1,11 +1,21 @@
-# ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
+![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
 ### [Round1](https://davidqpyle.github.io/#R1)
 
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
+### Day 3: August 9. Thursday
+
+**Today's Progress**: Today I finished the challenges under Intro to Flexbox CSS and Intro to Grid CSS in the freeCodeCamp Responsive Web Design Certification course. I need to update my previously created tribute page to conform to the new curriculum requirements and then start on the Survey Page.
+
+**Thoughts**: I still find it so amazing that you can sit down with coding and look back up at the clock and massive amounts of time have passed! 
+
+**Links to work**:
+
+[Twitter link](https://twitter.com/davidqpyle/status/1027725720481607681)
 
 ### Day 1 and 2: August 7 and August 8. Tuesday and Wednesday
+
 **Today's Progress**: Today I got back into the freeCodeCamp Responsive Web Design Certification. I have completed up through the Applied Accessibility section. Worked on this GitHub page and learned about linking within the page using this markup syntax
 
 **Thoughts**: After re-commiting, I had second thoughts about how much time this was going to require. Once I started I was good to go again!! I am very glad I just sat down and started.
@@ -18,6 +28,7 @@
 
 
 ### Day 0: August 6. Monday
+
 **Today's Progress**: Today I decided to get back into the #100DaysOfCode challenge to keep me pushing and learning. 
 
 **Thoughts**: I felt like I lost something when the round one challenge was over with and hopefully this recaptures that motivation!
