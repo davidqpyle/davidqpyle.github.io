@@ -13,7 +13,9 @@
 **Links to work**:
 
 [Twitter link](https://twitter.com/davidqpyle/status/1028408638644396039)
+
 [Survey Form Page on Code Pen](https://codepen.io/davidqpyle/pen/KBJzog)
+
 [Radio and Checkbox Customizations](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp)
 
 ### Day 4: August 10. Friday
