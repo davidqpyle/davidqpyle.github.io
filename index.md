@@ -4,6 +4,18 @@
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
+### Dav 5: August 11. Saturday
+
+**Today's Progress**: I finished the Survey Form Page for the freeCodeCamp Responsive Web Design Certification course. I also learned about styling radio buttons and checkboxes to make them more unique. I also created a page on my domain to host this survey form page for future reference.
+
+**Thoughts**: I pretty much completed this challenge early in the day, but I opted to keep tweeking it as the day went on to make personal touches and confirm I was happy with it before moving on to the next challenge. I think I'll re-work my Tribute Page challenge now that the new curriculum has been released. I'll do that tomorrow.
+
+**Links to work**:
+
+[Twitter link](https://twitter.com/davidqpyle/status/1028408638644396039)
+[Survey Form Page on Code Pen](https://codepen.io/davidqpyle/pen/KBJzog)
+[Radio and Checkbox Customizations](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp)
+
 ### Day 4: August 10. Friday
 
 **Today's Progress**: I have started the Survey Form project on the freeCodeCamp Responsive Web Design Certification course and that led me down the rabbit hole of forms. I spent time creating a cheat sheet for future form implementations! I also delved into making them look a lot better through CSS. I should be able to finish this project up tomorrow.
