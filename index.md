@@ -4,6 +4,18 @@
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
+### Day 4: August 10. Friday
+
+**Today's Progress**: I have started the Survey Form project on the freeCodeCamp Responsive Web Design Certification course and that led me down the rabbit hole of forms. I spent time creating a cheat sheet for future form implementations! I also delved into making them look a lot better through CSS. I should be able to finish this project up tomorrow.
+
+**Thoughts**: I honestly love getting back into the daily challenge of coding, making that time and then coming out the other side. It feels like a good workout!
+
+**Links to work**:
+
+[Twitter link](https://twitter.com/davidqpyle/status/1028071764851662848)
+
+[Survey Form fCC](https://codepen.io/freeCodeCamp/pen/VPaoNP)
+
 ### Day 3: August 9. Thursday
 
 **Today's Progress**: Today I finished the challenges under Intro to Flexbox CSS and Intro to Grid CSS in the freeCodeCamp Responsive Web Design Certification course. I need to update my previously created tribute page to conform to the new curriculum requirements and then start on the Survey Page.
