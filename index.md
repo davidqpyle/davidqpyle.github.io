@@ -6,9 +6,9 @@
 
 ### Dav 5: August 11. Saturday
 
-**Today's Progress**: I finished the Survey Form Page for the freeCodeCamp Responsive Web Design Certification course. I also learned about styling radio buttons and checkboxes to make them more unique. I also created a page on my domain to host this survey form page for future reference.
+**Today's Progress**: I finished the Survey Form Page for the freeCodeCamp Responsive Web Design Certification course. I also learned about styling radio buttons and checkboxes to make them more unique. I also created a page on my domain to host this survey form page for future reference. I ended up going back to my Tribute Page and made the changes required to pass the fCC new requirements for this challenge I previously completed. I also updated my home Linux (Ubuntu) server we use for storage and media for us on the network.
 
-**Thoughts**: I pretty much completed this challenge early in the day, but I opted to keep tweeking it as the day went on to make personal touches and confirm I was happy with it before moving on to the next challenge. I think I'll re-work my Tribute Page challenge now that the new curriculum has been released. I'll do that tomorrow.
+**Thoughts**: I pretty much completed this challenge early in the day, but I opted to keep tweeking it as the day went on to make personal touches and confirm I was happy with it before moving on to the next challenge. I think I'll re-work my Tribute Page challenge now that the new curriculum has been released. I'll do that tomorrow.(DONE! lol)
 
 **Links to work**:
 
@@ -17,6 +17,8 @@
 [Survey Form Page on Code Pen](https://codepen.io/davidqpyle/pen/KBJzog)
 
 [Radio and Checkbox Customizations](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp)
+
+[Updated Tribute Page on Code Pen](https://codepen.io/davidqpyle/pen/OzrNjX)
 
 ### Day 4: August 10. Friday
 
