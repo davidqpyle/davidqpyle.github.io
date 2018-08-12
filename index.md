@@ -1,5 +1,5 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
-### [Round1](https://github.com/davidqpyle/davidqpyle.github.io/blob/master/index.md#log-of-round-1-of-100daysofcode---2018)
+### [Round1](https://davidqpyle.github.io/#round)
 
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
