@@ -1,5 +1,5 @@
 ![header](https://github.com/davidqpyle/freeCodeCamp/blob/master/header.png?raw=true:center)
-### [Round1](https://davidqpyle.github.io/#R1)
+### [Round1](a href="https://davidqpyle.github.io/#R1")
 
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
@@ -66,7 +66,7 @@
 [Twitter link](https://twitter.com/davidqpyle/status/1026556694699155460)
 
 
-## [Log of Round 1 of #100DaysOfCode - 2018](#R1)
+## [Log of Round 1 of #100DaysOfCode - 2018](a name="#R1")
 
 ### 100 Days Summary:
 
