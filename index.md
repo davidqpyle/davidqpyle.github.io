@@ -4,7 +4,20 @@
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
-### Dav 5: August 11. Saturday
+### Day 6: August 13. Monday
+
+**Today's Progress**:  I completed the Product Landing Page challenge for the freeCodeCamp Responsive Web Design Certification course, only one more left before I obtain my cert! Listened to Episode 063 Syntax FM HastyTreat podcast on JSON JSONP CORS. 
+
+**Thoughts**: Today was one of those days where I got stumped on some basic stuff. I noticed that over the last day or two I have missed some typographical errors which led me running in circles for too long. I got back on the horse and finished today's challenge. I think after I finish the certification course, I will do daily challenges on grid, flexbox, forms, pages, etc... that are repeated until they are burned into my psyche.
+
+**Links to work**:
+
+[Tweet link](https://twitter.com/davidqpyle/status/1029143916220743682)
+
+[Product Landing Page](https://codepen.io/davidqpyle/pen/VBRGRp)
+
+
+### Day 5: August 11. Saturday
 
 **Today's Progress**: I finished the Survey Form Page for the freeCodeCamp Responsive Web Design Certification course. I also learned about styling radio buttons and checkboxes to make them more unique. I also created a page on my domain to host this survey form page for future reference. I ended up going back to my Tribute Page and made the changes required to pass the fCC new requirements for this challenge I previously completed. I also updated my home Linux (Ubuntu) server we use for storage and media for us on the network.
 
