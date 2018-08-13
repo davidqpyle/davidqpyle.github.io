@@ -14,7 +14,7 @@
 
 [Tweet link](https://twitter.com/davidqpyle/status/1029143916220743682)
 
-[Product Landing Page](https://codepen.io/davidqpyle/pen/VBRGRp)
+[Product Landing Page](https://codepen.io/davidqpyle/full/VBRGRp)
 
 
 ### Day 5: August 11. Saturday
