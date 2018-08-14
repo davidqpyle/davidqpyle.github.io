@@ -4,6 +4,18 @@
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
+### Day 7: August 14. Tuesday
+
+**Today's Progress**: Today I started the last challenge, 'Technical Product Page', in the freeCodeCamp Responsive Web Design Certification course. I have completed about half of the challenge and really just need to add content and sections. I also looked into more CSS Grid techniques and read up on media queries.
+
+**Thoughts**: Nothing really today, just keep pushing through and learning!
+
+**Links to work**:
+
+[Twitter link](https://twitter.com/davidqpyle/status/1029480925216890880)
+
+[Technical Product Page](https://codepen.io/davidqpyle/pen/XBQJaQ)
+
 ### Day 6: August 13. Monday
 
 **Today's Progress**:  I completed the Product Landing Page challenge for the freeCodeCamp Responsive Web Design Certification course, only one more left before I obtain my cert! Listened to Episode 063 Syntax FM HastyTreat podcast on JSON JSONP CORS. 
