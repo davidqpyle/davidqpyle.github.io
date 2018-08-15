@@ -4,6 +4,18 @@
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
+### Day 8: August 15. Wednesday
+
+**Today's Progress**: I finished the Technical Product Page project and also had to do some majow tweeking on my Portfolio project to meet the current curicculum requirements! I did it and received my Responsive Web Design Certificate!!
+
+**Thoughts**: I need to finish the JavaScript and Front End Libraries challenges/projects as I have completed a good chunk of each already. I may work on CSS Grid for the next few days just to hammer home some concepts and processes. 300 hours of work is what they estimate that goes into obtaining this certificate. This was something I just started off and on in Septemeber 2017, but didn't actually really get after it until the new year, 2018.
+
+**Links to work**:
+
+[Tweet link](https://twitter.com/davidqpyle/status/1029818772264243202)
+
+![Responsive Web Design Cert](https://pbs.twimg.com/media/DkqmmKOU4AAI96d.jpg)
+
 ### Day 7: August 14. Tuesday
 
 **Today's Progress**: Today I started the last challenge, 'Technical Product Page', in the freeCodeCamp Responsive Web Design Certification course. I have completed about half of the challenge and really just need to add content and sections. I also looked into more CSS Grid techniques and read up on media queries.
