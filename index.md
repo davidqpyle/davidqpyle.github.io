@@ -4,6 +4,16 @@
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
+### Day 9: August 16. Thursday
+
+**Today's Progress**: I spent today going over previously studied JavaScript concepts and dug up my notes from Round 1. I did go through the freeCodeCamp Javascript Algorithms And Data Structures Certification to see where I need to fill the gaps in the new curriculum. I even completed a challenge!
+
+**Thoughts**: Use it or Lose it! It's amazing how quickly you can lose the tools you've learned just by not using them regularly! I gotta keep finding projects.
+
+**Links to work**:
+
+[Tweet link](https://twitter.com/davidqpyle/status/1030252080378916866)
+
 ### Day 8: August 15. Wednesday
 
 **Today's Progress**: I finished the Technical Product Page project and also had to do some majow tweeking on my Portfolio project to meet the current curicculum requirements! I did it and received my Responsive Web Design Certificate!!
