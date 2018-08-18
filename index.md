@@ -4,6 +4,16 @@
 
 ## [Log of Round 2 of #100DaysOfCode - 2018](#R2)
 
+### Day 10: August 17. Friday
+
+**Today's Progress**: I went through the Basic JavaScript challenges and tried completing that section...about 5 or 6 still left to be completed. Still brushing up on JavaScript.
+
+**Thoughts**: I love this project, challenge or whatever you want to classify '100 Days of Code', but I am not sure getting back on this daily grind is how I really want to challenge and educate myself. Sometimes I feel like I am just putting in some coding for the sake of getting my x day of 100 days...instead of deeply focusing on learning something at the rate and depth you require. I also accept that 'this is on me' during this challenge to not have realized this sooner or changed direction in my day to day to correct this error.
+
+**Links to work**:
+
+[Tweet link](https://twitter.com/davidqpyle/status/1030624645505011712)
+
 ### Day 9: August 16. Thursday
 
 **Today's Progress**: I spent today going over previously studied JavaScript concepts and dug up my notes from Round 1. I did go through the freeCodeCamp Javascript Algorithms And Data Structures Certification to see where I need to fill the gaps in the new curriculum. I even completed a challenge!
